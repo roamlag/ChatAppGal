@@ -1,0 +1,10 @@
+#messagesSection{
+    border: solid 1px;
+    height: 80%;
+}
+.chatMessage {
+    color: red;
+}
+#newMsg {
+
+}
